@@ -5,6 +5,11 @@
 A sleek and interactive personal finance tracker powered by **Streamlit**, **Plotly**, and **Pandas**—perfect for visualizing expenditures, managing budgets, and showcasing your Python portfolio.
 
 ---
+## Try it on streamlit
+```bash
+https://financeapp-dj9nc7uqntdy7app75mzt7.streamlit.app/
+```
+---
 
 ### 🚀 Features
 
